@@ -67,6 +67,8 @@ console.log(total)
 	    	.then((response) => response.json())
 	    	.then((data) => {
 				  alert('Transaction completed');  
+					cart = {}
+					document.cookie ='cart=' + JSON.stringify(cart) + ";domain=;path=/"
 				  window.location.href = "/"
 
 				})
