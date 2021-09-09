@@ -32,10 +32,10 @@ Landing page:
 ![screenshot](./assets/screenshot.png)
 
 Cart page:
-![screenshot](./assets/screenshot.png)
+![screenshot](./assets/screenshot1.png)
 
 Payment page:
-![screenshot](./assets/screenshot.png)
+![screenshot](./assets/screenshot2.png)
 
 Additional description about the project and its features.
 
@@ -51,14 +51,14 @@ Additional description about the project and its features.
 ## Getting Started
 ### Usage
 To have this app on your pc, you need to:
-* [download](https://github.com/javitocor/Todo-App-Django/archive/main.zip) or clone this repo:
+* [download](https://github.com/javitocor/eCommerce-Site-Django/archive/main.zip) or clone this repo:
   - Clone with SSH:
   ```
-    git@github.com:javitocor/Todo-App-Django.git
+    git@github.com:javitocor/eCommerce-Site-Django.git
   ```
   - Clone with HTTPS
   ```
-    https://github.com/javitocor/Todo-App-Django.git
+    https://github.com/javitocor/eCommerce-Site-Django.git
   ```
 
 ## Author
@@ -72,7 +72,7 @@ To have this app on your pc, you need to:
 
 Contributions, issues and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/javitocor/Todo-App-Django/issues).
+Feel free to check the [issues page](https://github.com/javitocor/eCommerce-Site-Django/issues).
 
 ## Show your support
 
@@ -89,11 +89,11 @@ This project is [MIT](lic.url) licensed.
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/javitocor/Todo-App-Django.svg?style=flat-square
-[contributors-url]: https://github.com/javitocor/Todo-App-Django/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/javitocor/Todo-App-Django.svg?style=flat-square
-[forks-url]: https://github.com/javitocor/Todo-App-Django/network/members
-[stars-shield]: https://img.shields.io/github/stars/javitocor/Todo-App-Django.svg?style=flat-square
-[stars-url]: https://github.com/javitocor/Todo-App-Django/stargazers
-[issues-shield]: https://img.shields.io/github/issues/javitocor/Todo-App-Django.svg?style=flat-square
-[issues-url]: https://github.com/javitocor/Todo-App-Django/issuesover:
+[contributors-shield]: https://img.shields.io/github/contributors/javitocor/eCommerce-Site-Django.svg?style=flat-square
+[contributors-url]: https://github.com/javitocor/eCommerce-Site-Django/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/javitocor/eCommerce-Site-Django.svg?style=flat-square
+[forks-url]: https://github.com/javitocor/eCommerce-Site-Django/network/members
+[stars-shield]: https://img.shields.io/github/stars/javitocor/eCommerce-Site-Django.svg?style=flat-square
+[stars-url]: https://github.com/javitocor/eCommerce-Site-Django/stargazers
+[issues-shield]: https://img.shields.io/github/issues/javitocor/eCommerce-Site-Django.svg?style=flat-square
+[issues-url]: https://github.com/javitocor/eCommerce-Site-Django/issuesover:
